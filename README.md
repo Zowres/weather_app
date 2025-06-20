@@ -49,7 +49,7 @@ This project requires the following dependencies:
 
 ### Installation
 
-Build `your_project_name` from the source and install dependencies:
+Build `weather_app` from the source and install dependencies:
 
 1. **Clone the repository:**
 
