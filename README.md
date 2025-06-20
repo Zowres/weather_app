@@ -1,4 +1,4 @@
-# YOUR_PROJECT_NAME
+# Weather App
 
 Empowering [what your app does], Instantly and Seamlessly
 
