@@ -67,9 +67,10 @@ Build `weather_app` from the source and install dependencies:
    npm install
 
 4. **Getting Api Key**
+   
    Login or Create Account on WeatherStack and get the API KEY
 
-5. **Create file named .env.local**
+6. **Create file named .env.local**
    Create file .env.local in weather_app and type below in the file.
    ```bash
    NEXT_PUBLIC_WEATHER_API_KEY= API_KEY_FROM_WEATHERSTACK
