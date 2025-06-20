@@ -54,12 +54,27 @@ Build `your_project_name` from the source and install dependencies:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your_project_name
+   git clone https://github.com/Zowres/weather_app
 
 ---
 
+2. **Navigate to the project directory**
+
+   ```bash
+   cd weather_app
+   
+3. **Installing the dependencies**
+   Using npm:
+   ```bash
+   npm install
+   
+4. **Usage**
+   Using npm:
+   ```bash
+   npm start
+
 Feel free to update:
-- `YOUR_PROJECT_NAME`
+- `weather_app`
 - badges and links with your actual GitHub username/repo
 - the tech stack badges (you can get them from [shields.io](https://shields.io))
 - `{test_framework}` with the real testing tool you're using, e.g., Jest or Vitest
