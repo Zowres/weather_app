@@ -56,8 +56,6 @@ Build `your_project_name` from the source and install dependencies:
    ```bash
    git clone https://github.com/Zowres/weather_app
 
----
-
 2. **Navigate to the project directory**
 
    ```bash
@@ -72,6 +70,8 @@ Build `your_project_name` from the source and install dependencies:
    Using npm:
    ```bash
    npm start
+   
+---
 
 Feel free to update:
 - `weather_app`
